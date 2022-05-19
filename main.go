@@ -10,6 +10,7 @@ func main() {
 		m   struct{} // 0
 		n   int8     // 1
 		age int
+		sex bool
 	}
 
 	var d2 Demo2
